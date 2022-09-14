@@ -2,4 +2,4 @@
 Assignment 3 - Basic HTML
 
 
- “Hosted a[url link](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-Saimithilesh1/)
+ Hosted at [link to my page](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-Saimithilesh1/)
